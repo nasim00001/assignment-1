@@ -1,0 +1,19 @@
+/* nav styles */
+nav{
+    display: block;
+    background-color: rgba(229, 84, 115, 0.10);
+    ;
+
+}
+.firstportion{
+ font-size: 80px;
+ font-weight: 800;
+}
+.firstbtn{
+    border-radius: 8px;
+    background-color: #E55473;
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 10px;
+    padding: 20px 43px;
+}
