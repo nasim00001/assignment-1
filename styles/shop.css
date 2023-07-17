@@ -219,3 +219,65 @@ padding-bottom: 48px;
     margin-right: 24px;
     margin-left: 24px;
 }
+/* last section */
+.lastpic{
+    background-image: url('../Flower\ Asset/Rectangle 9.png');
+    background-repeat: no-repeat;
+  background-size: cover;
+  
+    height: 449px;
+    width: 1440px;
+    border-radius: 8px;
+ margin-left: 280px;
+ margin-top: 128px;
+
+}
+.latest{
+   color: #272727; 
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+height: 48px;
+width: 373px;
+/* padding: 122px 533px 0px 533px; */
+padding-left: 533px;
+padding-top: 122px;
+}
+.dollar{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; 
+height: 30px;
+width: 231px;
+margin-left: 604px;
+
+}
+#email{
+    width: 700px;
+height: 64px;
+flex-shrink: 0;
+border-radius: 8px;
+background: #FFF;
+border-style: none;
+
+margin-left: 287px;
+ margin-bottom: 121px; 
+ 
+}
+.lastbtn{
+    width: 150px;
+    height: 64px;
+    flex-shrink: 0;
+    border-radius: 8px;
+background: #E55473;
+border-style: none;
+color: white;
+font-size: 20px;
+}
