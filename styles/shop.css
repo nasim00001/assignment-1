@@ -92,7 +92,7 @@ margin-bottom: 48px;
 .fulone{
     border-radius: 300px 300px 0px 0px;
 background: rgba(167, 33, 98, 0.15);
-margin-left: 240px;
+margin-left: 220px;
 margin-right: 24px;
 padding: 110px 76px 0px 76px;
 }
@@ -109,6 +109,7 @@ background: rgba(71, 125, 17, 0.15);
 padding: 67px 76px 0px 76px;
 
 }
+/* tree section */
 .ultwo{
     color: #272727;
 text-align: center;
@@ -119,6 +120,7 @@ font-weight: 700;
 line-height: 35px; /* 145.833% */
 text-decoration-line: underline;
 }
+
 .treeone{
     margin-left: 381px;
 }
