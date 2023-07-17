@@ -22,6 +22,7 @@ padding:20px 45px;
 margin-left: 240px;
 margin-bottom: 170px;
 font-size: 30px;
+border-style: none;
 
 }
 .main_section{
@@ -129,4 +130,54 @@ text-decoration-line: underline;
 }
 .treethree{
     margin-left: 308px;
+}
+/* section offer */
+.hotdeal{
+    width: 1922px;
+    height: 620px;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    margin-top: 128px;
+    background-image: url('../Flower\ Asset/pngwing 8.png');
+    background-position: 1173px 100px;
+    background-repeat: no-repeat;
+}
+.offer{
+    color: #272727;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+margin-left: 423px;
+/* margin-top: 230px; */
+padding-top: 230px;
+margin-bottom: 24px;
+}
+.off{
+    color:  #E55473;
+}
+.offerp{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+/* line-height: 30px;  */
+margin-left: 393px;
+margin-right: 933px;
+
+}
+.btntwo{
+    display: inline-flex;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
+margin-left: 603px;
+border-radius: 8px;
+background: #E55473;
+border-style: none;
+color: white;
+font-size: 20px;
 }
