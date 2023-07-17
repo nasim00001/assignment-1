@@ -59,6 +59,7 @@ main{
     url('../Flower\ Asset/pngwing 7.png');
     background-repeat: no-repeat;
   background-position: ; */
+  background-color: white;
     
 }
 .hfour{
@@ -69,6 +70,8 @@ main{
     font-style: normal;
     font-weight: 800;
     line-height: normal;
+    margin-top: 178px;
+    margin-bottom: 0px;
     }
     .middle{
         color: rgba(39, 39, 39, 0.60);
@@ -78,20 +81,50 @@ font-size: 18px;
 font-style: normal;
 font-weight: 400;
 line-height: 30px; /* 166.667% */
+margin-bottom: 48px;
+
     }
     /* flowers section */
     ul{
         display: flex;
+        list-style: none;
     }
 .fulone{
     border-radius: 300px 300px 0px 0px;
 background: rgba(167, 33, 98, 0.15);
+margin-left: 240px;
+margin-right: 24px;
+padding: 110px 76px 0px 76px;
 }
 .fultwo{
     border-radius: 300px 300px 0px 0px;
 background: rgba(5, 151, 160, 0.15);
+padding: 117px 47px 51px 47px;
+margin-right: 24px;
 }
 .fulthree{
     border-radius: 300px 300px 0px 0px;
 background: rgba(71, 125, 17, 0.15);
+/* margin-left: 1216px; */
+padding: 67px 76px 0px 76px;
+
+}
+.ultwo{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 35px; /* 145.833% */
+text-decoration-line: underline;
+}
+.treeone{
+    margin-left: 381px;
+}
+.treetwo{
+    margin-left: 307px;
+}
+.treethree{
+    margin-left: 308px;
 }
