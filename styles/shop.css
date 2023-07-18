@@ -8,6 +8,8 @@ header{
     height: 850px;
     width: 1920px;
     background-color: rgba(229, 84, 115, 0.10);
+    gap: 0px;
+  margin-bottom: -50px;
 }
 
 .firstbtn{
@@ -51,16 +53,12 @@ margin-left: 240px;
 margin-right:1046px
 }
 /* main section */
-main{
+.flower{
     width: 1920px;
     height: 1100px;
-    /* background-image: 
-    url('../Flower\ Asset/pngwing 6.png'),
-    url('../Flower\ Asset/pngwing 5.png'),
-    url('../Flower\ Asset/pngwing 7.png');
-    background-repeat: no-repeat;
-  background-position: ; */
-  background-color: white;
+
+    background: #FFF;
+  margin-bottom: -140px;
     
 }
 .hfour{
@@ -71,8 +69,9 @@ main{
     font-style: normal;
     font-weight: 800;
     line-height: normal;
-    margin-top: 178px;
+    padding-top:  178px;
     margin-bottom: 0px;
+    ma
     }
     .middle{
         color: rgba(39, 39, 39, 0.60);
@@ -141,6 +140,7 @@ text-decoration-line: underline;
     background-image: url('../Flower\ Asset/pngwing 8.png');
     background-position: 1173px 100px;
     background-repeat: no-repeat;
+    margin-bottom: -50px;
 }
 .offer{
     color: #272727;
@@ -183,8 +183,13 @@ font-size: 20px;
 }
 /* section insta */
 .insta{
-    height: 4867px;
+    height: 1420px;
     width: 1920px;
+    background-color: white;
+   margin-bottom: -40px;
+}
+.rose{
+    margin-top: 48px;
 }
 .instagram{
     color: #272727;
@@ -195,7 +200,7 @@ font-style: normal;
 font-weight: 800;
 line-height: normal;
 margin-bottom: 24px;
-margin-top: 128px;
+padding-top: 128px;
 
 }
 .instap{
@@ -280,4 +285,48 @@ background: #E55473;
 border-style: none;
 color: white;
 font-size: 20px;
+}
+/* section footer */
+.footer{
+    width: 1922px;
+height: 449px;
+flex-shrink: 0;
+background: #111010;
+
+}
+.lasth{
+    color: #E55473;
+font-family: Lato;
+font-size: 48px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+padding-top: 128px;
+padding-left: 831px;
+}
+.seshspan{
+    color: #FFF;
+font-family: Lato;
+font-size: 48px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.footp{
+    color: rgba(255, 255, 255, 0.90);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
+}
+.sesh{
+    color: rgba(255, 255, 255, 0.40);
+text-align: center;
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
 }
